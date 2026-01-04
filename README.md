@@ -15,9 +15,6 @@
 
 ---
 
-## 📖 Project Description
-
-This project leverages **Natural Language Processing (NLP)** and **Machine Learning** to perform sentiment analysis on user reviews of the **Threads app** from Google Play Store. Using a **Multinomial Naive Bayes classifier**, the model predicts whether a review expresses a **positive** or **negative** sentiment based on its textual content.
 
 ### Why This Project?
 
